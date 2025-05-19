@@ -1,5 +1,6 @@
-pip install flask
-pip install spacy
-pip install youtube-transcript-api
-pip install bert-extractive-summarizer
+pip install flask \n
+pip install -U spacy \n
+pip install youtube-transcript-api \n
+pip install bert-extractive-summarizer \n
 pip install torch
+
